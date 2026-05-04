@@ -17,9 +17,19 @@ The top factors influencing impulsive buying behavior are:
 
 These findings indicate that psychological triggers play a dominant role in consumer purchasing decisions.
 
-## Visualization
-- Ranking of influencing factors
-- Criteria weight distribution  
+## Refined Description (E1–E12)
+- E1 – Attraction when encountering merchandise
+- E2 – Sudden feelings of boredom or post-purchase regret
+- E3 – Anxiety when unable to obtain desired merchandise
+- E4 – Restlessness triggered by limited or exclusive items
+- E5 – Purchasing merchandise as a form of self-reward
+- E6 – Using self-reward as justification for unnecessary purchases
+- E7 – Level of awareness and self-control before making a purchase
+- E8 – Influence of age on purchasing mindset and behavior
+- E9 – Exposure to influence from peers or community
+- E10 – Impact of ongoing trends on purchasing decisions
+- E11 – Purchasing merchandise as a way to support one’s idol
+- E12 – Viewing “oshikatsu” as the ultimate expression of devotion to an idol
 
 ## Method
 - Fuzzy Analytic Network Process (FANP)
@@ -27,6 +37,7 @@ These findings indicate that psychological triggers play a dominant role in cons
 - Triangular Fuzzy Numbers (TFN)
 - Degree of Possibility
 - Pairwise comparison and weighting
+- Fuzzy Membership Trapezoidal
 - Analytic Network Process (ANP)
 
 ## Tools
