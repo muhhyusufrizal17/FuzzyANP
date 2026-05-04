@@ -1,4 +1,4 @@
-# FuzzyANP
+# Fuzzy Analytics Network Process (FANP)
 Fuzzy ANP-based decision support system to analyze impulsive buying behavior and identify key influencing factors. This project analyzes factors influencing and explores about phenomena using Fuzzy ANP approach and compares it with classical ANP to evaluate both decision accuracy and computational performance. Focuses on analyzing consumer behavior using a single dataset with multiple evaluation approaches to understand the impact of different factors in decision-making.
 
 ### Key Findings
