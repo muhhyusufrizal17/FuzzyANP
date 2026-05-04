@@ -36,4 +36,7 @@ Python, NumPy, Pandas
 This model can be applied to:
 - Marketing strategy development  
 - Consumer behavior analysis  
-- Product positioning  
+- Product positioning
+
+## 📊 Dashboard
+![Dashboard](Visualization.png)
