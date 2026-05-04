@@ -2,9 +2,10 @@
 Fuzzy ANP-based decision support system to analyze impulsive buying behavior and identify key influencing factors. This project analyzes factors influencing and explores about phenomena using Fuzzy ANP approach and compares it with classical ANP to evaluate both decision accuracy and computational performance. Focuses on analyzing consumer behavior using a single dataset with multiple evaluation approaches to understand the impact of different factors in decision-making.
 
 ### Key Findings
+- FANP produces more distinct and interpretable factor weights compared to ANP
 - Classical ANP shows fluctuating execution time as the number of nodes increases  
-- Fuzzy ANP demonstrates more stable performance across different scales  
-- FANP is more efficient in handling uncertainty without significantly increasing computational cost  
+- Psychological factors dominate impulsive buying behavior  
+- FANP demonstrates more stable and efficient in handling uncertainty without significantly increasing computational cost and performance as data size increases  
 
 ### Insight
 Fuzzy ANP not only improves decision accuracy by handling ambiguity, but also maintains stable computational performance, making it suitable for complex decision-making scenarios.
