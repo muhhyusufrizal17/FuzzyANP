@@ -2,13 +2,7 @@
 Fuzzy ANP-based decision support system to analyze impulsive buying behavior and identify key influencing factors.
 
 ## Overview
-This project analyzes factors influencing impulsive buying behavior using a Fuzzy Analytic Network Process (FANP) approach.
-
-## Experiment Focus
-This project focuses on analyzing consumer behavior using a single dataset with multiple evaluation approaches to understand the impact of different factors in decision-making.
-
-## Computational Analysis
-This project also compares the computational performance between classical ANP and Fuzzy ANP (FANP).
+This project analyzes factors influencing impulsive buying behavior using a Fuzzy Analytic Network Process (FANP) approach. Focuses on analyzing consumer behavior using a single dataset with multiple evaluation approaches to understand the impact of different factors in decision-making. This project also compares the computational performance between classical ANP and Fuzzy ANP (FANP).
 
 ### Key Findings
 - Classical ANP shows fluctuating execution time as the number of nodes increases  
@@ -31,11 +25,12 @@ These findings indicate that psychological triggers play a dominant role in cons
 - Criteria weight distribution  
 
 ## Method
-- Fuzzy ANP (FANP)
+- Fuzzy Analytic Network Process (FANP)
 - Fuzzy Geometric Mean (FGM) for preprocessing
 - Triangular Fuzzy Numbers (TFN)
 - Degree of Possibility
-- Pairwise comparison and weighting  
+- Pairwise comparison and weighting
+- Analytic Network Process (ANP)
 
 ## Tools
 Python, NumPy, Pandas  
