@@ -1,22 +1,33 @@
 # Impulsive Buying Analysis using FANP & ANP (Decision Support System)
 Fuzzy ANP-based decision support system to analyze impulsive buying behavior and identify key influencing factors. This project analyzes factors influencing and explores about phenomena using Fuzzy ANP approach and compares it with classical ANP to evaluate both decision accuracy and computational performance. Focuses on analyzing consumer behavior using a single dataset with multiple evaluation approaches to understand the impact of different factors in decision-making.
 
+
+## Problem Statement
+Impulsive buying behavior in fandom communities is influenced by multiple psychological and social factors. However, identifying the most dominant factors and evaluating decision-making methods remains a challenge.
+## Data
+The analysis is based on questionnaire data collected from 30 respondents in the pre-model stage and 100 respondents in the main model stage. The respondents were selected based on specific criteria relevant to the study, including being active or former fans of a particular franchise, having experience purchasing merchandise, and engaging within fandom communities. 
+To support the analysis of age and environmental influence, the respondent group represents a range of fandom life stages, predominantly consisting of individuals aged 20–40 years. This ensures a more representative understanding of purchasing behavior across different levels of maturity and financial capability.
+## Impact
+This project demonstrates the practical value of decision support systems in analyzing complex consumer behavior.
+First, it helps identify the most influential psychological and social factors behind impulsive buying, enabling a deeper understanding of what truly drives consumer decisions.
+Second, by comparing FANP and ANP, the project shows how different methods affect the prioritization of factors, providing insight into selecting more appropriate decision-making approaches.
+Finally, the inclusion of computational complexity analysis highlights the importance of efficiency and scalability, ensuring that the chosen method remains practical when applied to larger datasets.
+
+
 ### Key Findings
 - FANP produces more distinct and interpretable factor weights compared to ANP
 - Classical ANP shows fluctuating execution time as the number of nodes increases  
 - Psychological factors dominate impulsive buying behavior  
-- FANP demonstrates more stable and efficient in handling uncertainty without significantly increasing computational cost and performance as data size increases  
-
-### Insight
-Fuzzy ANP not only improves decision accuracy by handling ambiguity, but also maintains stable computational performance, making it suitable for complex decision-making scenarios.
+- FANP demonstrates more stable and efficient in handling uncertainty without significantly increasing computational cost and performance as data size increases
+- Fuzzy ANP not only improves decision accuracy by handling ambiguity, but also maintains stable computational performance, making it suitable for complex decision-making scenarios.
 
 ## Key Insights
 The top factors influencing impulsive buying behavior are:
 1. Emotional attraction when seeing merchandise or illustration has made to merchandise
 2. Self-reward motivation  
 3. Perceived product exclusivity  
-
 These findings indicate that psychological triggers play a dominant role in consumer purchasing decisions.
+
 
 ## Refined Description (E1–E12)
 - E1 – Attraction when encountering merchandise
@@ -43,12 +54,6 @@ These findings indicate that psychological triggers play a dominant role in cons
 
 ## Tools
 Python, NumPy, Pandas  
-
-## Impact
-This model can be applied to:
-- Marketing strategy development  
-- Consumer behavior analysis  
-- Product positioning
 
 ## 📊 Dashboard
 ![Dashboard](Visualization.png)
