@@ -52,3 +52,7 @@ This model can be applied to:
 
 ## 📊 Dashboard
 ![Dashboard](Visualization.png)
+
+## 📊 Visualization Insights
+
+The visualizations demonstrate that FANP effectively captures the dominance of emotional and psychological factors in impulsive buying behavior, with key drivers such as attraction to merchandise (E1), limited/exclusive perception (E4), and self-reward motivation (E5) emerging as the most influential. Compared to ANP, FANP produces more distinct and discriminative weights, enabling clearer prioritization of factors, while ANP tends to distribute weights more evenly. Additionally, the computational complexity analysis shows that FANP maintains relatively stable performance as data size increases, whereas ANP is more sensitive to changes in node size, indicating that FANP offers better scalability and efficiency for larger datasets.
